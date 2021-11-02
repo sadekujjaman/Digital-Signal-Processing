@@ -9,3 +9,8 @@
 6. ![Amplitude Modulation(AM)](https://github.com/sadekujjaman/Digital-Signal-Processing/blob/main/Analog_To_Analog_Conversion_AM_FM_PM.ipynb)
 7. ![Frequency Modulation(FM)](https://github.com/sadekujjaman/Digital-Signal-Processing/blob/main/Analog_To_Analog_Conversion_AM_FM_PM.ipynb)
 8. ![Phase Modulation(PM)](https://github.com/sadekujjaman/Digital-Signal-Processing/blob/main/Analog_To_Analog_Conversion_AM_FM_PM.ipynb)
+9. ![Elementary Signal plot](https://github.com/sadekujjaman/Digital-Signal-Processing/blob/main/Elementary_Signal_Plotting.ipynb)
+10. ![Linear Convolution plot](https://github.com/sadekujjaman/Digital-Signal-Processing/blob/main/Linear_Convolution.ipynb)
+11. ![DFT plot](https://github.com/sadekujjaman/Digital-Signal-Processing/blob/main/DFT_Compute_and_Plot.ipynb)
+12. ![Inverse DFT plot](https://github.com/sadekujjaman/Digital-Signal-Processing/blob/main/Inverse_DFT_Compute_and_Plot.ipynb)
+13. ![De-noising sound wave](https://github.com/sadekujjaman/Digital-Signal-Processing/blob/main/Denoising_Sound_Wave_using_FFT.ipynb)
